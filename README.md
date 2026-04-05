@@ -37,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
+## String
+|  |
+| ------- |
+| [0657-robot-return-to-origin](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0657-robot-return-to-origin) |
+## Simulation
+|  |
+| ------- |
+| [0657-robot-return-to-origin](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0657-robot-return-to-origin) |
 <!---LeetCode Topics End-->
