@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0874-walking-robot-simulation](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0874-walking-robot-simulation) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Binary Search
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Number Theory
 |  |
 | ------- |
