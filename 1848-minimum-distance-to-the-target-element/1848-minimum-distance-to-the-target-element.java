@@ -9,11 +9,11 @@ class Solution {
         }
         for(int i=start-1;i>=0;i--){
             if(start-i>ans){
-                return ans;
+                break;
             }
             if(nums[i]==target){
                  ans=Math.min(ans,start-i);
-                 return ans;
+                 break;
             }
         }
           return ans;
