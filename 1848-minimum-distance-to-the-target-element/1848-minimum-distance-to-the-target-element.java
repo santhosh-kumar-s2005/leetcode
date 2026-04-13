@@ -13,6 +13,7 @@ class Solution {
             }
             if(nums[i]==target){
                  ans=Math.min(ans,start-i);
+                 break;
             }
         }
           return ans;
