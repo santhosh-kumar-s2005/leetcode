@@ -1,34 +1,37 @@
-import java.util.*;
-
 class Solution {
     public int calPoints(String[] operations) {
-        Deque<Integer> stack = new ArrayDeque<>();
-        int ans = 0;
-
-        for (String op : operations) {
-
-            if (op.equals("C")) {
-                ans -= stack.pop();
-            } 
-            else if (op.equals("D")) {
-                int val = stack.peek() * 2;
-                stack.push(val);
-                ans += val;
-            } 
-            else if (op.equals("+")) {
-                int top = stack.pop();
-                int newVal = top + stack.peek();
-                stack.push(top);      // restore
-                stack.push(newVal);
-                ans += newVal;
-            } 
-            else {
-                int val = Integer.parseInt(op);
-                stack.push(val);
-                ans += val;
+       ArrayList<Integer> arr=new ArrayList<>();
+       int ans=0;
+        for(int i=0;i<operations.length;i++){
+            String op=operations[i];
+            int si=arr.size();
+            
+            if(op.equals("C")){
+                if(si>=1){
+                    ans-=arr.remove(si-1);
+                }
             }
-        }
+            else if(op.equals("D")){
+                if(si>=1){
+                arr.add(arr.get(si-1)*2);
+                ans+=arr.get(si);
+                }
 
+            }
+            else if(op.equals("+")){
+                if(si>=2){
+                    arr.add(arr.get(si-1)+arr.get(si-2));
+                    ans+=arr.get(si);
+                }
+
+            }
+            else{
+                ans+=Integer.parseInt(op);
+                arr.add(Integer.parseInt(op));
+            }
+            System.out.println(ans);
+        }
         return ans;
+        
     }
 }
