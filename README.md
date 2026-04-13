@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0495-teemo-attacking](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0495-teemo-attacking) |
+| [0506-relative-ranks](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0506-relative-ranks) |
 | [0682-baseball-game](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0682-baseball-game) |
 | [0874-walking-robot-simulation](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0874-walking-robot-simulation) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0506-relative-ranks) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## String
 |  |
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0682-baseball-game) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
