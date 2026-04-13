@@ -1,6 +1,6 @@
 class Solution {
     public String[] findRelativeRanks(int[] score) {
-        PriorityQueue<Integer> heap=new PriorityQueue<>((a,b)->b-a);
+        PriorityQueue<Integer> heap=new PriorityQueue<>(Collections.reverseOrder());
         for(int i:score){
             heap.add(i);
         }
