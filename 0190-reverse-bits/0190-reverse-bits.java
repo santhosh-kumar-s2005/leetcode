@@ -3,10 +3,12 @@ class Solution {
         int i=31;
 
         while(i>=16){
-            int l = (n >> i) & 1;
-            int r = (n >> (31 - i)) & 1;
-            // int l=n&(1<<i);
-            // int r=n&(1<<(31-i));
+            // int l = (n >> i) & 1;
+            // int r = (n >> (31 - i)) & 1;
+             int l=n&(1<<i);
+             l=(l>0 && (l&(l-1))==0)?1:0;
+             int r=n&(1<<(31-i));
+             r=(r>0 && (r&(r-1))==0)?1:0;
             n=n&~(1<<i);
             n=n|(r<<i);
             n=n&~(1<<(31-i));
