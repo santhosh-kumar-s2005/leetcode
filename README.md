@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1025-divisor-game](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1025-divisor-game) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Sorting
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0415-add-strings) |
+| [1025-divisor-game](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1025-divisor-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -158,8 +160,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
