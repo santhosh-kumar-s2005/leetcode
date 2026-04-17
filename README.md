@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0069-sqrtx) |
 | [3488-closest-equal-element-queries](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Dynamic Programming
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0258-add-digits](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0292-nim-game) |
