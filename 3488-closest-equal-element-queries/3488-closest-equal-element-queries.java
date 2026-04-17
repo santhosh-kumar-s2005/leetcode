@@ -12,30 +12,23 @@ class Solution {
         return res;
     }
     public int findindex(int[] words, int target, int startIndex,HashMap<Integer,ArrayList<Integer>> map) {
+        if(!map.containsKey(target)){
+            return -1;
+        }
+
         
-    ArrayList<Integer> list = map.get(target);
-    int n = words.length;
-
-    if (list.size() == 1) return -1; // only itself exists
-
-    // Binary search position
-    int pos = Collections.binarySearch(list, startIndex);
-
-    int left = (pos - 1 + list.size()) % list.size();
-    int right = (pos + 1) % list.size();
-
-    int leftIdx = list.get(left);
-    int rightIdx = list.get(right);
-
-    int d1 = Math.abs(leftIdx - startIndex);
-    int d2 = Math.abs(rightIdx - startIndex);
-
-    int dist1 = Math.min(d1, n - d1);
-    int dist2 = Math.min(d2, n - d2);
-
-    return Math.min(dist1, dist2);
-}
+        int steps=Integer.MAX_VALUE;
+        ArrayList<Integer> list=map.get(target);
+        if (list.size() == 1) return -1;
+        int pos=Collections.binarySearch(list,startIndex);
+        int left=(pos-1+list.size())%list.size();
+        int right=(pos+1)%list.size();
+        int n=words.length;
+        steps=Math.min(steps,Math.min(Math.abs(list.get(left)-startIndex),n-Math.abs(list.get(left)-startIndex)));
+        steps=Math.min(steps,Math.min(Math.abs(list.get(right)-startIndex),n-Math.abs(list.get(right)-startIndex)));
+       
+        return steps==Integer.MAX_VALUE?-1:steps;
  
-
+    }    
 
 }
