@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0258-add-digits) |
+| [0292-nim-game](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0415-add-strings) |
 ## Bit Manipulation
@@ -153,4 +154,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
