@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0412-fizz-buzz](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0657-robot-return-to-origin) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0258-add-digits) |
