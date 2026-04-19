@@ -1,20 +1,11 @@
 class Solution {
-    public int maxDistance(int[] nums1, int[] nums2) {
-        int i=0;
-        int j=0;
-        int n1=nums1.length;
-        int n2=nums2.length;
-        int m=0;
-        while(i<n1 && j<n2){
-            if(nums1[i]<=nums2[j]){
-                m=Math.max(m,j-i);
-                j++;
-            }
-            else{
+    public int maxDistance(int[] A, int[] B) {
+        int i, j = 1;
+
+        for (i = 0; i < A.length && j < B.length; j++)
+            if (A[i] > B[j])
                 i++;
-                j++;
-            }
-        }
-        return m;
+
+        return j - i - 1;
     }
 }
