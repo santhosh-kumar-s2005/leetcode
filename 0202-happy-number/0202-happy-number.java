@@ -1,23 +1,17 @@
 class Solution {
     public boolean isHappy(int n) {
-        int slow = n;
-        int fast = n;
+            while (n != 1 && n != 4) {
+            int sum = 0;
 
-        do {
-            slow = sum(slow);          // 1 step
-            fast = sum(sum(fast));     // 2 steps
-        } while (slow != fast);
+            while (n > 0) {
+                int digit = n % 10;
+                sum += digit * digit;
+                n /= 10;
+            }
 
-        return slow == 1;
-    }
-
-    public int sum(int n) {
-        int s = 0;
-        while (n > 0) {
-            int d = n % 10;
-            s += d * d;
-            n /= 10;
+            n = sum;
         }
-        return s;
+
+        return n == 1;
     }
 }
