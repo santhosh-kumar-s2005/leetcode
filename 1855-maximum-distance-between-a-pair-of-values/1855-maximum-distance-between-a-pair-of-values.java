@@ -6,14 +6,12 @@ class Solution {
         int n2=nums2.length;
         int m=0;
         while(i<n1 && j<n2){
-            if(i>=j){
+            if(nums1[i]<=nums2[j]){
+                m=Math.max(m,j-i);
                 j++;
             }
-            else if(nums1[i]>nums2[j]){
-                i++;
-            }
             else{
-                m=Math.max(m,j-i);
+                i++;
                 j++;
             }
         }
