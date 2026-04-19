@@ -1,15 +1,23 @@
 class Solution {
     public boolean isHappy(int n) {
-        HashSet<Integer> set=new HashSet<>();
-        while(n!=1){
-            if(!set.add(n)){
-                return false;
-            }
-            n=call(n); 
-        }
-        return true;
+        int slow = n;
+        int fast = n;
+
+        do {
+            slow = sum(slow);          // 1 step
+            fast = sum(sum(fast));     // 2 steps
+        } while (slow != fast);
+
+        return slow == 1;
     }
-    public static int call(int n){
-        return (n==0)?0:((n%10)*(n%10))+call(n/10);
+
+    public int sum(int n) {
+        int s = 0;
+        while (n > 0) {
+            int d = n % 10;
+            s += d * d;
+            n /= 10;
+        }
+        return s;
     }
 }
