@@ -6,7 +6,7 @@ class Solution {
                 return false;
             }
             n=call(n); 
-          //  System.out.println(n);
+           System.out.println(n);
         }
         return true;
     }
