@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0231-power-of-two](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0412-fizz-buzz) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0231-power-of-two) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -180,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1025-divisor-game) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
