@@ -1,15 +1,17 @@
-class Solution {
+ class Solution {
     public boolean isUgly(int n) {
-        if (n <= 0) return false;
-
-        int[] factors = {5,2,3};
-
-        for (int f : factors) {
-            while (n % f == 0) {
-                n /= f;
-            }
+        if(n==0){
+            return false;
         }
-
-        return n == 1;
+        while(n%2==0){
+            n = n/2;
+        }
+        while(n%3==0){
+            n = n/3;
+        }
+        while(n%5==0){
+            n = n/5;
+        }
+        return n==1;
     }
 }
