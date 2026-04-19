@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0682-baseball-game) |
 | [0874-walking-robot-simulation](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0874-walking-robot-simulation) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3488-closest-equal-element-queries](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0069-sqrtx) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3488-closest-equal-element-queries](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Dynamic Programming
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0202-happy-number) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Database
 |  |
 | ------- |
