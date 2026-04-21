@@ -27,6 +27,7 @@
 class Solution {
     public List<String> readBinaryWatch(int turnedOn) {
         List<String> result = new ArrayList<>();
+        if(turnedOn > 8) return new ArrayList<>();
         
         for (int hour = 0; hour < 12; hour++) {
             
