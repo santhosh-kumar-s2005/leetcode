@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0401-binary-watch) |
+| [0461-hamming-distance](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0461-hamming-distance) |
 ## Divide and Conquer
 |  |
 | ------- |
