@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0389-find-the-difference) |
+| [0401-binary-watch](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0401-binary-watch) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -218,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
