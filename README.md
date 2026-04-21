@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0401-binary-watch) |
 | [0461-hamming-distance](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0461-hamming-distance) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Divide and Conquer
 |  |
 | ------- |
