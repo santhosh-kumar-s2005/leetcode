@@ -1,25 +1,29 @@
 class Solution {
     public List<String> twoEditWords(String[] queries, String[] dictionary) {
-        List<String> res=new ArrayList<>();
-        for(String i:queries){
-            for(String j:dictionary){
-                if(count(i,j)){
-                    res.add(i);
-                    break;
-                }
-            }
-        }
-        return res;
-    }
-    public static boolean count(String i,String j){
-        int n=i.length();
-        int diff=0;
-        for(int ptr=0;ptr<n;ptr++){
-            if(i.charAt(ptr)!=j.charAt(ptr)){
-                diff++;
-            }
-              if(diff>2) return false;
-        }
-        return true;
-    }
+		List<String> ans = new ArrayList<>(queries.length);
+		for (String query : queries) {
+			if (match(query, dictionary)) {
+				ans.add(query);
+			}
+		}
+		return ans;
+	}
+
+	private boolean match(String query, String[] dictionary) {
+		for (String word : dictionary) {
+			int cnt = 0;
+			for (int i = 0; i < query.length(); i++) {
+				if (query.charAt(i) != word.charAt(i)) {
+					cnt++;
+					if (cnt > 2) {
+						break;
+					}
+				}
+			}
+			if (cnt <= 2) {
+				return true;
+			}
+		}
+		return false;
+	}
 }
