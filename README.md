@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0682-baseball-game) |
+| [0832-flipping-an-image](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0832-flipping-an-image) |
 | [0874-walking-robot-simulation](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0874-walking-robot-simulation) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0495-teemo-attacking) |
 | [0657-robot-return-to-origin](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0682-baseball-game) |
+| [0832-flipping-an-image](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0832-flipping-an-image) |
 | [0874-walking-robot-simulation](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0874-walking-robot-simulation) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0202-happy-number) |
+| [0832-flipping-an-image](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0832-flipping-an-image) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Database
 |  |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0832-flipping-an-image](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0832-flipping-an-image) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Divide and Conquer
 |  |
@@ -233,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0401-binary-watch) |
+## Matrix
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
