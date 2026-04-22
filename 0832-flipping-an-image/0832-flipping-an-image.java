@@ -11,8 +11,8 @@ class Solution {
             while(p1<p2){
                 int t1=res[i][p1];
                 int t2=res[i][p2];
-                res[i][p1]=(t2==0)?1:0;
-                res[i][p2]=(t1==0)?1:0;
+                res[i][p1]=(~t2)&1;
+                res[i][p2]=(~t1)&1;
                 p1++;
                 p2--;
             }
