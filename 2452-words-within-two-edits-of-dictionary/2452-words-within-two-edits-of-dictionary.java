@@ -3,8 +3,7 @@ class Solution {
         List<String> res=new ArrayList<>();
         for(String i:queries){
             for(String j:dictionary){
-                int diff=count(i,j);
-                if(diff<=2){
+                if(count(i,j)){
                     res.add(i);
                     break;
                 }
@@ -12,14 +11,15 @@ class Solution {
         }
         return res;
     }
-    public static int count(String i,String j){
+    public static boolean count(String i,String j){
         int n=i.length();
         int diff=0;
         for(int ptr=0;ptr<n;ptr++){
             if(i.charAt(ptr)!=j.charAt(ptr)){
                 diff++;
             }
+              if(diff>2) return false;
         }
-        return diff;
+        return true;
     }
 }
