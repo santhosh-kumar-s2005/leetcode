@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2833-furthest-point-from-origin](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2833-furthest-point-from-origin) |
 ## Simulation
 |  |
 | ------- |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2206-divide-array-into-equal-pairs](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
+| [2833-furthest-point-from-origin](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2833-furthest-point-from-origin) |
 ## Prefix Sum
 |  |
 | ------- |
