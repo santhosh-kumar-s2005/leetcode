@@ -4,16 +4,10 @@ class Solution {
         int oddcount=0;
         int e=1;
         while(n!=0){
-            if(e==1){
-                if((n&1)==1){
-                    evencount++;
-                }
-            }
-            else{
-                if((n&1)==1){
-                    oddcount++;
-                }
-            }
+         if((n&1)==1){
+            if(e==1) evencount++;
+            else oddcount++;
+         }
             e^=1;
             n>>=1;
         }
