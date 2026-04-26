@@ -28,7 +28,7 @@ class Solution {
                 seen[val] = true;
                 countK++;
             }
-            if (countK >= k) return size - i;
+            if (countK == k) return size - i;
         }
 
         return -1;
