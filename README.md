@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2615-sum-of-distances) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2869-minimum-operations-to-collect-elements) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3488-closest-equal-element-queries](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2506-count-pairs-of-similar-strings](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2615-sum-of-distances](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2615-sum-of-distances) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2869-minimum-operations-to-collect-elements) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3488-closest-equal-element-queries](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2595-number-of-even-and-odd-bits](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2595-number-of-even-and-odd-bits) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2869-minimum-operations-to-collect-elements) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 ## Divide and Conquer
 |  |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Counting
 |  |
 | ------- |
@@ -299,4 +303,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0278-first-bad-version) |
+## Sliding Window
+|  |
+| ------- |
+| [2932-maximum-strong-pair-xor-i](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 <!---LeetCode Topics End-->
