@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0278-first-bad-version) |
+| [0441-arranging-coins](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0441-arranging-coins) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3488-closest-equal-element-queries](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0415-add-strings) |
+| [0441-arranging-coins](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0441-arranging-coins) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1025-divisor-game](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1025-divisor-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
