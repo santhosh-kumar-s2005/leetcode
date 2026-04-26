@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2615-sum-of-distances](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2615-sum-of-distances) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
+| [2869-minimum-operations-to-collect-elements](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2869-minimum-operations-to-collect-elements) |
 | [3488-closest-equal-element-queries](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2506-count-pairs-of-similar-strings](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2615-sum-of-distances](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2615-sum-of-distances) |
+| [2869-minimum-operations-to-collect-elements](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2869-minimum-operations-to-collect-elements) |
 | [3488-closest-equal-element-queries](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2506-count-pairs-of-similar-strings](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2595-number-of-even-and-odd-bits](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2595-number-of-even-and-odd-bits) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
+| [2869-minimum-operations-to-collect-elements](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2869-minimum-operations-to-collect-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
