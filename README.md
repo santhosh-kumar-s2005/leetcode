@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0832-flipping-an-image) |
 | [0874-walking-robot-simulation](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0874-walking-robot-simulation) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1720-decode-xored-array) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
