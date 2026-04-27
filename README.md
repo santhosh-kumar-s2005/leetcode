@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0495-teemo-attacking) |
 | [0506-relative-ranks](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0506-relative-ranks) |
 | [0566-reshape-the-matrix](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0566-reshape-the-matrix) |
+| [0605-can-place-flowers](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0832-flipping-an-image) |
@@ -313,4 +314,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2932-maximum-strong-pair-xor-i](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
