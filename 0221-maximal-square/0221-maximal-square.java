@@ -35,9 +35,9 @@ class Solution {
                 }
             }
         }
-         for(int i=0;i<m;i++){
-            System.out.println(Arrays.toString(mat[i]));
-        }
+        //  for(int i=0;i<m;i++){
+        //     System.out.println(Arrays.toString(mat[i]));
+        // }
        
         return maxarea*maxarea;
         
