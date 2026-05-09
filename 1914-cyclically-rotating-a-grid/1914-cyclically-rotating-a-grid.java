@@ -6,15 +6,17 @@ class Solution {
         int up=0,down=m-1;
         while(up<down && left<right){
              int currarr[]=new int[2*(down-up+1)+2*((right-left+1)-2)];
-             fill(currarr,grid,up,down,left,right,true);
+             fill(currarr,grid,up,down,left,right,true,0);
+
            //  System.out.println(Arrays.toString(currarr));
-             rotate(currarr,k%currarr.length);
-             fill(currarr,grid,up,down,left,right,false);
+            // rotate(currarr,k%currarr.length);
+            int rotate=k%currarr.length;
+             fill(currarr,grid,up,down,left,right,false,rotate);
              up++;
              left++;
              right--;
              down--;
-           //  System.out.println(Arrays.toString(currarr));
+          // System.out.println(Arrays.toString(currarr));
 
         }
         return grid;
@@ -34,16 +36,19 @@ class Solution {
             currarr[i]=tail[ptr++];
         }
     }
-    public void fill(int currarr[],int grid[][],int up,int down,int left,int right,boolean storing) {
+    public void fill(int currarr[],int grid[][],int up,int down,int left,int right,boolean storing,int rotate) {
         //crowiding curr and storing curr elements to grid after k rotations
         int ptr=0;
+        int l=currarr.length;
+        
+
         //top layer
         for(int i=left;i<=right;i++,ptr++){
             if(storing){
             currarr[ptr]=grid[up][i];
             }
             else{
-            grid[up][i]=currarr[ptr];
+            grid[up][i]=currarr[(ptr +rotate)%l];
             }
         }
         //right layer
@@ -52,7 +57,7 @@ class Solution {
             currarr[ptr]=grid[i][right];
             }
             else{
-            grid[i][right]=currarr[ptr];
+            grid[i][right]=currarr[(ptr +rotate)%l];
             }
         }
         //bottomlayer
@@ -61,7 +66,7 @@ class Solution {
             currarr[ptr]=grid[down][i];
             }
             else{
-            grid[down][i]=currarr[ptr];
+            grid[down][i]=currarr[(ptr +rotate)%l];
             }
         }
         //leftlayer
@@ -70,7 +75,7 @@ class Solution {
             currarr[ptr]=grid[i][left];
             }
             else{
-            grid[i][left]=currarr[ptr];
+            grid[i][left]=currarr[(ptr +rotate)%l];
             }
         }
     }   
