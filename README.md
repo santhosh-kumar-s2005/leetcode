@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2506-count-pairs-of-similar-strings](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2615-sum-of-distances](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2615-sum-of-distances) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1025-divisor-game](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1025-divisor-game) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3225-maximum-score-from-grid-operations](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3660-jump-game-ix](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
