@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0221-maximal-square) |
 | [0338-counting-bits](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0931-minimum-falling-path-sum) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0443-string-compression) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0443-string-compression) |
 | [0832-flipping-an-image](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0832-flipping-an-image) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
