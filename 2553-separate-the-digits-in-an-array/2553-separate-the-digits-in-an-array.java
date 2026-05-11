@@ -1,13 +1,40 @@
 class Solution {
-    public int[] separateDigits(int[] nums) {
+    public int[] separateDigits(int[] arr) {
+        int totalDigits = 0;
 
-        ArrayList<Integer> res = new ArrayList<>();
-        for(int i:nums){
-            String t=Integer.toString(i);
-            for(int j=0;j<t.length();j++){
-                res.add(t.charAt(j)-'0');
+        for(int n : arr){
+            int temp = n;
+
+            if(temp == 0){
+                totalDigits++;
+            }
+            else{
+                while(temp>0){
+                    totalDigits++;
+                    temp/=10;
+                }
+            } 
+        }
+        
+
+        int ans[] = new int[totalDigits];
+        int index = totalDigits - 1;
+
+        for(int i = arr.length-1; i>=0; i--){
+            int num = arr[i];
+
+            if(num == 0){
+                ans[index--] = 0;
+            }
+            else{
+                while(num>0){
+                    ans[index--] = num%10;
+                    num /= 10;
+                }
             }
         }
-        return res.stream().mapToInt(i->i).toArray();
+
+        return ans;
+
     }
 }
