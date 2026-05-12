@@ -1,9 +1,5 @@
 class Solution {
-     static {
-        for (int i = 0; i < 100; i++) {
-            maxArea(new int[] { 0, 0 });
-        }   
-    }
+     
     public static int maxArea(int[] height) {
         int i=0;
         int maxarea=Integer.MIN_VALUE;
