@@ -7,7 +7,7 @@ class Solution {
             maxarea=Math.max(maxarea,(j-i)*Math.min(height[i],height[j]));
             if(height[i]>=height[j]){j--;}
             else i++;
-            maxarea=Math.max(maxarea,(j-i)*Math.min(height[i],height[j]));
+       
         }
         return maxarea;
     }
