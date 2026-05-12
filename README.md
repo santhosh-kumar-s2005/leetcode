@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1720-decode-xored-array) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0645-set-mismatch) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## String
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0645-set-mismatch) |
 | [0874-walking-robot-simulation](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0874-walking-robot-simulation) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2206-divide-array-into-equal-pairs](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2351-first-letter-to-appear-twice) |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0443-string-compression) |
 | [0832-flipping-an-image](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0832-flipping-an-image) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1861-rotating-the-box) |
 ## Database
