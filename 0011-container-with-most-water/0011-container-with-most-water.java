@@ -4,19 +4,10 @@ class Solution {
         int maxarea=Integer.MIN_VALUE;
         int j=height.length-1;
         while(i<j){
-            if(height[i]>height[j]){
-                maxarea=Math.max(maxarea,(j-i)*height[j]);
-                j--;
-            }
-            else if(height[i]<height[j]){
-                maxarea=Math.max(maxarea,(j-i)*height[i]);
-                i++;
-            }
-            else{
-                maxarea=Math.max(maxarea,(j-i)*height[i]);
-                i++;
-            }
-
+            maxarea=Math.max(maxarea,(j-i)*Math.min(height[i],height[j]));
+            if(height[i]>=height[j]){j--;}
+            else i++;
+            maxarea=Math.max(maxarea,(j-i)*Math.min(height[i],height[j]));
         }
         return maxarea;
     }
