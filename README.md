@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0063-unique-paths-ii) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0011-container-with-most-water) |
 | [0061-rotate-list](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0061-rotate-list) |
 | [0151-reverse-words-in-a-string](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0045-jump-game-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0605-can-place-flowers) |
