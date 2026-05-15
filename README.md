@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0066-plus-one) |
 | [0120-triangle](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0136-single-number) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0221-maximal-square) |
 | [0268-missing-number](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0268-missing-number) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0069-sqrtx) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0278-first-bad-version) |
 | [0441-arranging-coins](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0441-arranging-coins) |
