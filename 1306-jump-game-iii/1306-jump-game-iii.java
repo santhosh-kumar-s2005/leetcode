@@ -1,23 +1,20 @@
 class Solution {
-
-    public boolean canReach(int[] arr, int start) {
-        boolean[] visited = new boolean[arr.length];
-        return dfs(arr, start, visited);
+    public static int n;
+    public static boolean visited[];
+    public static boolean canReach(int[] nums, int start) {
+    n=nums.length;
+    if(nums[start]==0) return true;
+    if(n==1) return false;
+    visited=new boolean[n];
+    visited[start]=true;
+    return recjump(nums,start-nums[start])||recjump(nums,start+nums[start]);   
     }
-
-    private boolean dfs(int[] arr, int index, boolean[] visited) {
-
-        if (index < 0 || index >= arr.length || visited[index]) {
-            return false;
-        }
-
-        if (arr[index] == 0) {
-            return true;
-        }
-
-        visited[index] = true;
-
-        return dfs(arr, index + arr[index], visited) ||
-               dfs(arr, index - arr[index], visited);
+    public static boolean recjump(int nums[],int jump_index){
+    if(jump_index<0 ||jump_index>=n||visited[jump_index]){
+        return false;
+    }
+    if(nums[jump_index]==0) return true;
+    visited[jump_index]=true;
+    return recjump(nums,jump_index-nums[jump_index])||recjump(nums,jump_index+nums[jump_index]);
     }
 }
