@@ -1,6 +1,6 @@
 class Solution {
     static{
-        for(int i=1;i<=500;i++){
+        for(int i=1;i<=1000;i++){
             canReach(new int[]{1,0},0);
         }
     }
