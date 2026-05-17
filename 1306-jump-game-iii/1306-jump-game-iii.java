@@ -12,10 +12,9 @@ class Solution {
 
         int jump = arr[start];
 
-        // mark visited
+    
         arr[start] = -arr[start];
 
-        return canReach(arr, start + jump) ||
-               canReach(arr, start - jump);
+        return ((start+jump<arr.length)?canReach(arr, start + jump):false )||((start-jump>=0)?canReach(arr, start - jump):false);
     }
 }
