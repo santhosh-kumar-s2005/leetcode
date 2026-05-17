@@ -1,4 +1,9 @@
 class Solution {
+    static{
+        for(int i=1;i<=500;i++){
+            canReach(new int[]{1,0},0);
+        }
+    }
     public static int n;
     public static boolean visited[];
     public static boolean canReach(int[] nums, int start) {
