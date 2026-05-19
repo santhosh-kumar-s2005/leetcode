@@ -1,24 +1,31 @@
+import java.util.*;
+
 class Solution {
     public int minimumDistance(int[] nums) {
-        HashMap<Integer, int[]> map = new HashMap<>();
-        int ans = Integer.MAX_VALUE;
+        Map<Integer, List<Integer>> mp = new HashMap<>();
+        int n = nums.length;
 
-        for (int i = 0; i < nums.length; i++) {
-            int[] arr = map.getOrDefault(nums[i], new int[]{-1, -1, -1});
-            
-            // shift indices
-            arr[0] = arr[1];
-            arr[1] = arr[2];
-            arr[2] = i;
-
-            // if we have 3 occurrences
-            if (arr[0] != -1) {
-                ans = Math.min(ans, 2 * (arr[2] - arr[0]));
-            }
-
-            map.put(nums[i], arr);
+        for (int i = 0; i < n; i++) {
+            mp.computeIfAbsent(nums[i], k -> new ArrayList<>()).add(i);
         }
 
-        return ans == Integer.MAX_VALUE ? -1 : ans;
+        int mini = Integer.MAX_VALUE;
+
+        for (List<Integer> temp : mp.values()) {
+            int m = temp.size();
+
+            if (m >= 3) {
+                for (int i = 0; i < m - 2; i++) {
+                    int a = temp.get(i);
+                    int b = temp.get(i + 1);
+                    int c = temp.get(i + 2);
+
+                    int diff = 2 * (c - a);
+                    mini = Math.min(mini, diff);
+                }
+            }
+        }
+
+        return mini == Integer.MAX_VALUE ? -1 : mini;
     }
 }
