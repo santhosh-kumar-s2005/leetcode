@@ -18,7 +18,7 @@ class Solution {
         }
         i++;
     }
-    System.out.println(currcount);
+    //System.out.println(currcount);
     int maxcount=currcount;
     int totalcount=currcount;
     for(;i<nums.length;i++){
@@ -36,7 +36,7 @@ class Solution {
                 currcount=0;
             }   
         }
-        System.out.println(currcount);
+       // System.out.println(currcount);
         maxcount=Math.max(maxcount,currcount);
     
     }
