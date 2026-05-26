@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2506-count-pairs-of-similar-strings](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2833-furthest-point-from-origin) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Simulation
 |  |
 | ------- |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2615-sum-of-distances) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3488-closest-equal-element-queries](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
