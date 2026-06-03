@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3225-maximum-score-from-grid-operations](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3488-closest-equal-element-queries](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3660-jump-game-ix](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3660-jump-game-ix) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3488-closest-equal-element-queries](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3488-closest-equal-element-queries) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Dynamic Programming
 |  |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2126-destroying-asteroids) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## String
 |  |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1861-rotating-the-box) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Database
 |  |
 | ------- |
@@ -447,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0605-can-place-flowers) |
 | [2126-destroying-asteroids](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2126-destroying-asteroids) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Memoization
 |  |
 | ------- |
