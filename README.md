@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Array
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1914-cyclically-rotating-a-grid](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2126-destroying-asteroids) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2206-divide-array-into-equal-pairs](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2506-count-pairs-of-similar-strings](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2506-count-pairs-of-similar-strings) |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2206-divide-array-into-equal-pairs](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2506-count-pairs-of-similar-strings](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2506-count-pairs-of-similar-strings) |
