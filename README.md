@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0867-transpose-matrix) |
 | [0874-walking-robot-simulation](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0874-walking-robot-simulation) |
 | [0931-minimum-falling-path-sum](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0931-minimum-falling-path-sum) |
+| [0997-find-the-town-judge](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1306-jump-game-iii](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1340-jump-game-v) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0645-set-mismatch) |
 | [0874-walking-robot-simulation](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0874-walking-robot-simulation) |
+| [0997-find-the-town-judge](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0997-find-the-town-judge) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -479,4 +481,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0796-rotate-string) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
