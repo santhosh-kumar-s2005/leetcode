@@ -3,8 +3,7 @@ class Solution {
         if(n==1){
             return 1;
         }
-
-        ArrayList<Integer> truster=new ArrayList<>();
+        HashSet<Integer> truster=new HashSet<>();
         HashMap<Integer,Integer> map =new HashMap<>();
         for(int i[]:trust){
             truster.add(i[0]);
