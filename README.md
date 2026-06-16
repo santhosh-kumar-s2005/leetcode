@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0066-plus-one) |
 | [0120-triangle](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0120-triangle) |
+| [0135-candy](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0045-jump-game-ii) |
+| [0135-candy](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0605-can-place-flowers) |
 | [2126-destroying-asteroids](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2126-destroying-asteroids) |
