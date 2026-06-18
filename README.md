@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1025-divisor-game](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1025-divisor-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1486-xor-operation-in-an-array](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
