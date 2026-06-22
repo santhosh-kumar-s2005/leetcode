@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0844-backspace-string-compare) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
