@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0844-backspace-string-compare) |
+| [1189-maximum-number-of-balloons](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2351-first-letter-to-appear-twice](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2351-first-letter-to-appear-twice) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0645-set-mismatch) |
 | [0874-walking-robot-simulation](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0874-walking-robot-simulation) |
 | [0997-find-the-town-judge](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0997-find-the-town-judge) |
+| [1189-maximum-number-of-balloons](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2206-divide-array-into-equal-pairs](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
