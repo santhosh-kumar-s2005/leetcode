@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0061-rotate-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0160-intersection-of-two-linked-lists](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0206-reverse-linked-list](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0206-reverse-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Two Pointers
 |  |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0342-power-of-four) |
