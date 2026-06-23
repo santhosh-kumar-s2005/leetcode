@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0495-teemo-attacking](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0495-teemo-attacking) |
 | [0506-relative-ranks](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0506-relative-ranks) |
 | [0566-reshape-the-matrix](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0566-reshape-the-matrix) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0389-find-the-difference) |
 | [0506-relative-ranks](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0645-set-mismatch) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0645-set-mismatch) |
 | [0874-walking-robot-simulation](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0874-walking-robot-simulation) |
@@ -385,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Number Theory
@@ -407,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0506-relative-ranks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Design
@@ -466,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1189-maximum-number-of-balloons](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -522,4 +528,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0997-find-the-town-judge) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
