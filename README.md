@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0221-maximal-square) |
 | [0338-counting-bits](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0338-counting-bits) |
+| [0343-integer-break](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0343-integer-break) |
 | [0412-fizz-buzz](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0441-arranging-coins) |
