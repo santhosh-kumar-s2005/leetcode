@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3093-longest-common-suffix-queries](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
+| [3127-make-a-square-with-the-same-color](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3127-make-a-square-with-the-same-color) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3225-maximum-score-from-grid-operations](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3488-closest-equal-element-queries](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3488-closest-equal-element-queries) |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [3127-make-a-square-with-the-same-color](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3127-make-a-square-with-the-same-color) |
 | [3225-maximum-score-from-grid-operations](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 ## Trie
 |  |
@@ -554,4 +556,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Enumeration
+|  |
+| ------- |
+| [3127-make-a-square-with-the-same-color](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3127-make-a-square-with-the-same-color) |
 <!---LeetCode Topics End-->
