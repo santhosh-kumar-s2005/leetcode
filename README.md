@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0198-house-robber](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0198-house-robber) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0221-maximal-square) |
 | [0338-counting-bits](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0338-counting-bits) |
