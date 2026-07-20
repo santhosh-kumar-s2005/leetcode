@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0997-find-the-town-judge](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1260-shift-2d-grid](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1260-shift-2d-grid) |
 | [1306-jump-game-iii](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0867-transpose-matrix) |
 | [0874-walking-robot-simulation](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0874-walking-robot-simulation) |
+| [1260-shift-2d-grid](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1260-shift-2d-grid) |
 | [1914-cyclically-rotating-a-grid](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2553-separate-the-digits-in-an-array](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0867-transpose-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0931-minimum-falling-path-sum) |
+| [1260-shift-2d-grid](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1260-shift-2d-grid) |
 | [1861-rotating-the-box](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
