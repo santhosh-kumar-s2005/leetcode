@@ -13,7 +13,7 @@ class Solution {
             zerocount++;
             i++;
         }
-        for(;i<n;){
+        while(i<n){
             while(i<n && s.charAt(i)=='1'){
                 res++;
                 i++;
