@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0997-find-the-town-judge](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1046-last-stone-weight](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1046-last-stone-weight) |
 | [1260-shift-2d-grid](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1260-shift-2d-grid) |
 | [1306-jump-game-iii](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1340-jump-game-v) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0506-relative-ranks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1046-last-stone-weight](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1046-last-stone-weight) |
 ## Design
 |  |
 | ------- |
