@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2351-first-letter-to-appear-twice](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [2409-count-days-spent-together](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2409-count-days-spent-together) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2506-count-pairs-of-similar-strings](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1486-xor-operation-in-an-array](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2409-count-days-spent-together](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2409-count-days-spent-together) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
