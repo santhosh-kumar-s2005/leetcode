@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0495-teemo-attacking](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0495-teemo-attacking) |
 | [0506-relative-ranks](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0506-relative-ranks) |
 | [0566-reshape-the-matrix](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0566-reshape-the-matrix) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0441-arranging-coins) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0973-k-closest-points-to-origin](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0973-k-closest-points-to-origin) |
