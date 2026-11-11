@@ -396,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -578,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0605-can-place-flowers) |
 | [2126-destroying-asteroids](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2126-destroying-asteroids) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Memoization
 |  |
 | ------- |
