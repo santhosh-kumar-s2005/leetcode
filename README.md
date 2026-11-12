@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3093-longest-common-suffix-queries](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3127-make-a-square-with-the-same-color](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3127-make-a-square-with-the-same-color) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3225-maximum-score-from-grid-operations](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3225-maximum-score-from-grid-operations) |
