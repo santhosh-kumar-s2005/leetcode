@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1306-jump-game-iii) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3127-make-a-square-with-the-same-color](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3127-make-a-square-with-the-same-color) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3225-maximum-score-from-grid-operations](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3225-maximum-score-from-grid-operations) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3488-closest-equal-element-queries](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3093-longest-common-suffix-queries](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3614-process-string-with-special-operations-ii) |
@@ -305,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3488-closest-equal-element-queries](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
