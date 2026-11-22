@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2351-first-letter-to-appear-twice](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2409-count-days-spent-together](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2409-count-days-spent-together) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/santhosh-kumar-s2005/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
